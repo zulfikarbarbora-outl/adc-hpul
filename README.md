@@ -7,7 +7,7 @@ Opus 48 kbps preview MP3s for the **karoryfer.HorsePulse** sample library.
 This repo holds **48 kbps Opus previews** for fast streaming in the web DAW.
 Opus at 48k delivers near-CD quality at ~35% the size of MP3 128k.
 
-- **Files**: 400 Opus previews
+- **Files**: 450 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
 - **Source**: [`zulfikarbarbora-outl/karoryfer.HorsePulse`](https://github.com/zulfikarbarbora-outl/karoryfer.HorsePulse)
