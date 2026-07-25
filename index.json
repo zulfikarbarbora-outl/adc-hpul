@@ -4,7 +4,7 @@
   "sourceRepo": "https://github.com/zulfikarbarbora-outl/karoryfer.HorsePulse",
   "previewRepo": "https://github.com/zulfikarbarbora-outl/horse-pulse-opus-48",
   "branch": "main",
-  "fileCount": 549,
+  "fileCount": 550,
   "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/horse-pulse-opus-48/main/",
   "files": [
     {
@@ -6040,6 +6040,17 @@
       "name": "f5_p_rr1.opus",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/horse-pulse-opus-48/main/f5_p_rr1.opus",
       "size": 4425,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "e5_p_rr1.opus",
+      "name": "e5_p_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/horse-pulse-opus-48/main/e5_p_rr1.opus",
+      "size": 4332,
       "note": null,
       "midiNote": null,
       "velocity": null,
